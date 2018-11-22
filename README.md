@@ -1,2 +1,3 @@
 # IGONE
-hard-working and curious
+hard-working
+
